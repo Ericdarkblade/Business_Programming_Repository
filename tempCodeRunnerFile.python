@@ -1,0 +1,23 @@
+def main():
+    import math as m 
+
+    LatitudeOne=float(input("Enter the latitude of the first location: "))
+    LongitudeOne=float(input("Enter the longitude of the first location: "))
+    LatitudeTwo=float(input("Enter the latitude of the second location: "))          #Longitude and Latitude inputs and angle of elevation
+    LongitudeTwo=float(input("Enter the longitude of the second location: "))
+    Angle=float(input("Enter the angle measure in degrees: "))
+
+    LatitudeDifference=LatitudeTwo-LatitudeOne
+    LongitudeDiffernce=LongitudeTwo-LongitudeOne
+    LongitudeConversion=69.172*m.cos(m.radians((LatitudeTwo*.5+LatitudeOne*.5)))     #Converts longitude to miles
+
+
+    SlopeDistanceMiles=m.sqrt((LatitudeDifference*69)**2+(LongitudeDiffernce*LongitudeConversion)**2)         #Latitude*69 converts latitude to miles    #Calculates the slope distance
+    SlopeDistanceFeet=SlopeDistanceMiles*5280                                                          #Converts slope distance from miles to feet
+    ElevationChangeFeet=SlopeDistanceFeet*m.tan(m.radians(Angle))                                     #Calculates elevation change in feet
+
+    print(f"The slope distance is {SlopeDistanceFeet:.1f} feet.")
+    print(f"The change in elevation is {ElevationChangeFeet:.1f} feet.")      #Prints outputs
+
+if __name__ == '__main__':
+    main()
