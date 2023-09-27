@@ -1,0 +1,5 @@
+S364 - Python Programming
+Week 4 - Functions and File IO
+When mode = 'r', file is in read only mode
+When mode = 'w', file is in write mode
+When mode = 'a', file is in append mode

@@ -1,0 +1,4 @@
+The second time to write to the file
+Previous content has been overwritten
+The third time to write to the file
+The content entered in the second time will stay in append mode
