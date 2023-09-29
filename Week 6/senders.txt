@@ -1,0 +1,162 @@
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by flawless.mail.umich.edu () with ESMTP id m05EEFR1013674;
+BY holes.mr.itd.umich.edu ID 477F90B0.2DB2F.12494 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 899
+by shmi.uhi.ac.uk (Postfix) with ESMTP id A215243002
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by sleepers.mail.umich.edu () with ESMTP id m04NAbGa029441;
+BY icestorm.mr.itd.umich.edu ID 477EBCE3.161BB.4320 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 710
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 4BA2F42F57
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by panther.mail.umich.edu () with ESMTP id m04LAcZw014275;
+BY ghostbusters.mr.itd.umich.edu ID 477EA0C6.A0214.25480 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 906
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 7D13042F71
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by panther.mail.umich.edu () with ESMTP id m04KkNbx032077;
+BY dreamcatcher.mr.itd.umich.edu ID 477E9B13.2F3BC.22965 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 38
+by shmi.uhi.ac.uk (Postfix) with ESMTP id A55D242F57
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by fan.mail.umich.edu () with ESMTP id m04K3HGF006563;
+BY firestarter.mr.itd.umich.edu ID 477E9100.8F7F4.1590 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 622
+by shmi.uhi.ac.uk (Postfix) with ESMTP id AB4D042F4D
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by mission.mail.umich.edu () with ESMTP id m04JoHJi019755;
+BY eyewitness.mr.itd.umich.edu ID 477E8DF2.67B91.5278 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 960
+by shmi.uhi.ac.uk (Postfix) with ESMTP id B3E6742F4A
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by fan.mail.umich.edu () with ESMTP id m04GbT9x022078;
+BY tadpole.mr.itd.umich.edu ID 477E60B2.82756.9904 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 120
+by shmi.uhi.ac.uk (Postfix) with ESMTP id D430B42E42
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by fan.mail.umich.edu () with ESMTP id m04GZ6lt020480;
+BY it.mr.itd.umich.edu ID 477E6033.6469D.21870 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 697
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 1CD0C42E42
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by panther.mail.umich.edu () with ESMTP id m04GCaHB030887;
+BY holes.mr.itd.umich.edu ID 477E5AEB.E670B.28397 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 272
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 0A6ED42DFC
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by godsend.mail.umich.edu () with ESMTP id m04GBqqv025330;
+BY creepshow.mr.itd.umich.edu ID 477E5AB3.5CC32.30840 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 1006
+by shmi.uhi.ac.uk (Postfix) with ESMTP id C596A3DFA2
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by sleepers.mail.umich.edu () with ESMTP id m04GB3Vg011502;
+BY carrie.mr.itd.umich.edu ID 477E5A8D.B378F.24200 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 483
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 2E7043DFA2
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by faithful.mail.umich.edu () with ESMTP id m04GAL9k010604;
+BY holes.mr.itd.umich.edu ID 477E5A67.34350.23015 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 966
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 9F89542DD0
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by flawless.mail.umich.edu () with ESMTP id m04Fcfjm012313;
+BY shining.mr.itd.umich.edu ID 477E52FA.E6C6E.24093 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 690
+by shmi.uhi.ac.uk (Postfix) with ESMTP id CEFA037ACE
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by sleepers.mail.umich.edu () with ESMTP id m04FHgfs011536;
+BY creepshow.mr.itd.umich.edu ID 477E4E0F.CCA4B.926 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 25
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 5B396236B9
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by panther.mail.umich.edu () with ESMTP id m04F4Dci015108;
+BY holes.mr.itd.umich.edu ID 477E4AE3.D7AF.31669 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 32
+by shmi.uhi.ac.uk (Postfix) with ESMTP id AC2F6236B9
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by flawless.mail.umich.edu () with ESMTP id m04E5U3C029277;
+BY guys.mr.itd.umich.edu ID 477E3D23.EE2E7.5237 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 575
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 3C0261D617
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by faithful.mail.umich.edu () with ESMTP id m04C2VN7026678;
+BY guys.mr.itd.umich.edu ID 477E2050.C2599.3263 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 611
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 5296342D3C
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by casino.mail.umich.edu () with ESMTP id m04B8Qw9001368;
+BY firestarter.mr.itd.umich.edu ID 477E13A5.30FC0.24054 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 585
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 1CACC42D0C
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by score.mail.umich.edu () with ESMTP id m049n60G017588;
+BY galaxyquest.mr.itd.umich.edu ID 477E010C.48C2.10259 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 246
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 8C13342C92
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by fan.mail.umich.edu () with ESMTP id m049Xge3031803;
+BY workinggirl.mr.itd.umich.edu ID 477DFD6C.75DBE.26054 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 153
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 6C69423767
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by panther.mail.umich.edu () with ESMTP id m0497WAN027902;
+BY salemslot.mr.itd.umich.edu ID 477DF74E.49493.30415 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 385
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 90636418A8
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by jacknife.mail.umich.edu () with ESMTP id m040pJHB027171;
+BY eyewitness.mr.itd.umich.edu ID 477D8300.AC098.32562 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 754
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 8889842C49
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by jacknife.mail.umich.edu () with ESMTP id m03MIMXY027729;
+BY salemslot.mr.itd.umich.edu ID 477D5F23.797F6.16348 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 236
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 905D53C2FD
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by faithful.mail.umich.edu () with ESMTP id m03M6xaq014868;
+BY anniehall.mr.itd.umich.edu ID 477D5C7A.4FE1F.22211 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 554
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 2AB513C2FD
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by chaos.mail.umich.edu () with ESMTP id m03LYdY1029538;
+BY icestorm.mr.itd.umich.edu ID 477D54EA.13F34.26602 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 611
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 43C4242B55
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by fan.mail.umich.edu () with ESMTP id m03LT6uw027749;
+BY galaxyquest.mr.itd.umich.edu ID 477D5397.E161D.20326 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 917
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 1FBB042B30
+by frankenstein.mail.umich.edu (Cyrus v2.3.8) with LMTPA;
+by mail.umich.edu (Cyrus v2.2.12) with LMTPA;
+by jacknife.mail.umich.edu () with ESMTP id m03LNlf0002115;
+BY salemslot.mr.itd.umich.edu ID 477D525E.1448.30389 ;
+by paploo.uhi.ac.uk (JAMES SMTP Server 2.1.3) with SMTP ID 6
+by shmi.uhi.ac.uk (Postfix) with ESMTP id 3535542B69
